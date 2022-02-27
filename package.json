@@ -1,0 +1,14 @@
+{
+  "name": "namelist",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Create 1000 fake names and write them on a new file",
+  "main": "names.js",
+  "scripts": {
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^6.0.0-alpha.7"
+  },
+  "author": "Daniel Arteta",
+  "license": "ISC"
+}
